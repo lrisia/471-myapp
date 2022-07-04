@@ -1,3 +1,3 @@
 class Z:
-    def __inti__(self):
-        self.sound = "dong"
+    def __init__(self):
+        self.point = 13
