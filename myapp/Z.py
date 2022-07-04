@@ -1,2 +1,3 @@
 class Z:
-    pass
+    def __init__(self):
+        self.point = 13
