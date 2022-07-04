@@ -1,5 +1,6 @@
 class cat:
-    pass
+    def __init__(self):
+        self.sound = "dong"
 
 class dog:
     pass
