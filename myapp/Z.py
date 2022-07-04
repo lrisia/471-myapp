@@ -1,2 +1,3 @@
 class Z:
-    pass
+    def __inti__(self):
+        self.sound = "dong"
